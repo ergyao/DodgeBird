@@ -25,7 +25,7 @@
 ![Object](Pictures/DodgeBird_object.png)
 
 ## 操作方法
-Webカメラに顔を映して動かすことでプレイヤーを操作することができます。
+Webカメラに顔を映して動かすことでプレイヤーを操作することができます
 
 ## ダウンロード方法
 ### Google Drive
@@ -39,7 +39,7 @@ Webカメラに顔を映して動かすことでプレイヤーを操作する�
 __注意　このサイトからZipファイル形式で直接ダウンロードした場合は、正常に動きません__
 
 ## 実行方法
-ダウンロードした"DodgeBirdBeta.zip"を展開して、中の"DodgeBird.exe"をダブルクリックしてください
+ダウンロードした"DodgeBirdBeta.zip"を右クリックして"すべて展開"を選んでください。その後、"DodgeBirdBeta"内の"DodgeBird.exe"をダブルクリックしてください
 
 ![Download](Pictures/play.png)
 
