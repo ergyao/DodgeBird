@@ -7,11 +7,11 @@
 
 <p align="center">
 
-<img src="Pictures/DodgeBirdTestPlayOne.gif?format=1000w?format=450w" height="180"> 
-<img src="Pictures/DodgeBirdTestPlayTwo.gif?format=450w" height="180">
+<img src="Pictures/DodgeBirdTestPlayOne.gif?format=1000w?format=450w" height="200"> 
+<img src="Pictures/DodgeBirdTestPlayTwo.gif?format=450w" height="200">
 </p>
 
-<span style="font-size: 150%;">"Webカメラに映る顔を動かしてプレイヤーを操作し、鳥をよけて身体を動かそう！"</span>
+<span style="font-size: 150%">__"Webカメラに映る顔を動かしてプレイヤーを操作し、鳥をよけて身体を動かそう！"__</span>
 
 </div>
 
