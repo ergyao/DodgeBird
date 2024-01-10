@@ -1,13 +1,18 @@
 # DodgeBird
 ## ゲーム内容
+
+<div align="center">
+
 ![Title](Pictures/DodgeBird_title.png)
 
 <p align="center">
-<img src="Pictures/DodgeBirdTestPlay1.gif?format=1000w?format=300w" height="150">
-<img src="Pictures/DodgeBirdTestPlay2.gif?format=1000w?format=300w" height="150">
-
+<img src="Pictures/DodgeBirdTestPlay1.gif?format=1000w?format=300w" height="180">
+<img src="Pictures/DodgeBirdTestPlay2.gif?format=1000w?format=300w" height="180">
 
 <span style="font-size: 150%;">"Webカメラに映る顔を動かしてプレイヤーを操作し、鳥をよけて身体を動かそう！"</span>
+
+</div>
+
 - プレイヤー  
     Webカメラに映った顔で動かすことができます。ハートがなくなるとゲームオーバーです。
 - 鳥  
