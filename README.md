@@ -5,11 +5,9 @@
 
 ![Title](Pictures/DodgeBird_title.png)
 
-![Title](Pictures/DodgeBirdTestPlay1.gif) ![Title](Pictures/DodgeBirdTestPlay2.gif)
-
 <p align="center">
 
-<img src="Pictures/DodgeBirdTestPlay1.gif?format=1000w?format=450w" height="180"> 
+<img src="Pictures/DodgeBirdTestPlay2.gif?format=1000w?format=450w" height="180"> 
 <img src="Pictures/DodgeBirdTestPlay2.gif?format=450w" height="180">
 </p>
 
