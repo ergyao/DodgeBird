@@ -2,7 +2,7 @@
 ## ゲーム内容
 ![Title](Pictures/DodgeBird_title.png)
 
-<table align="center">
+<table>
 <tr>
 <td><img src="Pictures/DodgeBirdTestPlay1.gif"></td>
 <td><img src="Pictures/DodgeBirdTestPlay2.gif"></td>
