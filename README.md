@@ -11,7 +11,7 @@
 <img src="Pictures/DodgeBirdTestPlayTwo.gif?format=450w" height="200">
 </p>
 
-<span style="font-size: 150%">__"Webカメラに映る顔を動かしてプレイヤーを操作し、鳥をよけて身体を動かそう！"__</span>
+<span style="font-size: 150%">__"顔を動かしてプレイヤーを操作し、鳥をよけよう！！"__</span>
 
 </div>
 
