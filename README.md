@@ -2,12 +2,10 @@
 ## ゲーム内容
 ![Title](Pictures/DodgeBird_title.png)
 
-<table>
-<tr>
-<td><img src="Pictures/DodgeBirdTestPlay1.gif"></td>
-<td><img src="Pictures/DodgeBirdTestPlay2.gif"></td>
-</tr>
-</table>
+<p align="center">
+<img src="Pictures/DodgeBirdTestPlay1.gif?format=1000w?format=300w" height="180">
+<img src="Pictures/DodgeBirdTestPlay2.gif?format=1000w?format=300w" height="180">
+
 
 <span style="font-size: 150%;">"Webカメラに映る顔を動かしてプレイヤーを操作し、鳥をよけて身体を動かそう！"</span>
 - プレイヤー  
@@ -40,12 +38,9 @@ __注意　このサイトからZipファイル形式で直接ダウンロード
 
 実行時に以下のポップが出てくる場合は、"詳細情報"→"実行"を押して下さい
 
-<table align="center">
-<tr>
-<td><img src="Pictures/pop1.png"></td>
-<td><img src="Pictures/pop2.png"></td>
-</tr>
-</table>
+<p align="center">
+<img src="Pictures/pop1.png?format=1000w?format=300w" height="300">
+<img src="Pictures/pop2.png?format=1000w?format=300w" height="300">
 
 ## 備考
 
